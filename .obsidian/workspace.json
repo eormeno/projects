@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fd6f55733c3f1e52",
+        "id": "9e004bdc1b172155",
         "type": "tabs",
         "children": [
           {
-            "id": "ba4a29a5ecba397f",
+            "id": "739d9acbd7a5eeef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Initial.md",
+                "file": "Abstract UI Layer.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Initial.md",
+                "file": "Abstract UI Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Initial.md",
+                "file": "Abstract UI Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Initial.md"
+                "file": "Abstract UI Layer.md"
               }
             }
           }
@@ -139,6 +139,13 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ba4a29a5ecba397f",
-  "lastOpenFiles": []
+  "active": "739d9acbd7a5eeef",
+  "lastOpenFiles": [
+    "README.md",
+    "Abstract UI Layer.md",
+    "draws/Architecture.svg",
+    "2022-10-26.md",
+    "Recording 20221026112754.webm",
+    "Recording 20221026114840.webm"
+  ]
 }

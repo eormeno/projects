@@ -1,1 +1,14 @@
-{}
+{
+  "audio-recorder:start": [
+    {
+      "modifiers": [],
+      "key": "F5"
+    }
+  ],
+  "audio-recorder:stop": [
+    {
+      "modifiers": [],
+      "key": "F6"
+    }
+  ]
+}

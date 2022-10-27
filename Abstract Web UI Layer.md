@@ -6,6 +6,6 @@ ___
 ## Advantages
 - Reduce front-end development effort.
 - Allows a better integration of UX design into the SDP.
-- Easy to automate unit tests.
+- Let on facilitate the automation of unit tests.
 - It adds another security layer.
 - Sharing user state across multiple http clients.

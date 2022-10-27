@@ -1,5 +1,5 @@
 ## Introduction
-<p>Abuil is a software development framework that allows to write the <b>front-end</b> logic at server-side. It provides an extensible set of agnostic UI elements named `AUidgets` for building all the elements and the interaction of any user interface.</p> From the point of view of the 
+<p >Abuil is a software development framework that allows to write the <b>front-end</b> logic at server-side. It provides an extensible set of agnostic UI elements named `AUidgets` for building all the elements and the interaction of any user interface.</p> From the point of view of the 
 
 ![[Architecture.svg]]
 ___

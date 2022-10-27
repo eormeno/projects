@@ -6,7 +6,6 @@ From the point of view of the
 ___
 ## Advantages
 - Reduce front end development effort.
-- Automatic
 - Allows a better integration of UX design into the software development process.
 - Easy to automate unit tests.
 - Add another security layer.

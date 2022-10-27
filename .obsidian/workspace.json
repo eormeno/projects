@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7c8dae1722cc45fb",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +136,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7c8dae1722cc45fb",
+  "active": "55fdb023b5b386bd",
   "lastOpenFiles": [
     "Abstract UI Layer.md",
     "README.md",

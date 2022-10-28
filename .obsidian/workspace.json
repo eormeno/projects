@@ -11,11 +11,9 @@
             "id": "55fdb023b5b386bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Abstract Web UI Layer.md",
-                "mode": "source",
-                "source": false
+                "file": "draws/Architecture.svg"
               }
             }
           }
@@ -69,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "9a3092e252547dba",
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Abstract Web UI Layer.md",
+                "file": "draws/Architecture.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Abstract Web UI Layer.md",
+                "file": "draws/Architecture.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Abstract Web UI Layer.md"
+                "file": "draws/Architecture.svg"
               }
             }
           }

@@ -11,9 +11,11 @@
             "id": "55fdb023b5b386bd",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "draws/Architecture.svg"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "draws/Architecture.svg",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "draws/Architecture.svg",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "draws/Architecture.svg"
+                "file": "README.md"
               }
             }
           }
@@ -136,9 +138,9 @@
   },
   "active": "55fdb023b5b386bd",
   "lastOpenFiles": [
-    "README.md",
     "Abstract Web UI Layer.md",
     "draws/Architecture.svg",
+    "README.md",
     "2022-10-26.md",
     "Recording 20221026112754.webm",
     "Recording 20221026114840.webm"

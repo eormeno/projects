@@ -4,6 +4,6 @@
   "enabledCssSnippets": [
     "style1"
   ],
-  "nativeMenus": true,
-  "translucency": true
+  "nativeMenus": false,
+  "translucency": false
 }

@@ -9,3 +9,10 @@ ___
 - Let on facilitate the automation of unit tests.
 - It adds another security layer.
 - Sharing user state across multiple http clients.
+- Unique input validation
+- Reduce REST API calls
+
+## Proposals
+- Include UX design
+- Include process development
+- Include auto documentation and diagramming

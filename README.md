@@ -9,3 +9,5 @@ This is a repository for storing ideas.
 	3. Validación.
 	4. Defensa. El mapeo es el escudo.
 4. Comentar plataforma social como campo de prueba.
+
+

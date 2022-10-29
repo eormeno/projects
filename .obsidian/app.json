@@ -1,4 +1,6 @@
 {
+  "accentColor": "",
+  "nativeMenus": false,
   "alwaysUpdateLinks": true,
   "showInlineTitle": true
 }

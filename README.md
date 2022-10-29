@@ -11,3 +11,6 @@ This is a repository for storing ideas.
 4. Comentar plataforma social como campo de prueba.
 
 
+Otra idea.
+Modificar el sistema de input de Godot para recibir entradas de un usuario específico hacia un carácter específico.
+Luego hacer streaming de la escena

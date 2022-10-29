@@ -3,5 +3,7 @@
   "enabledCssSnippets": [
     "style1"
   ],
-  "translucency": false
+  "translucency": false,
+  "accentColor": "",
+  "nativeMenus": false
 }

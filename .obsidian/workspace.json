@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ec3326e1bca64a44",
+        "id": "fc485bc4c9000209",
         "type": "tabs",
         "children": [
           {
-            "id": "80ecb1283294c265",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "7e83d2d7a6c00438",
+            "id": "ac5a3b188f31517e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Abstract Web UI Layer.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Abstract Web UI Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Abstract Web UI Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Abstract Web UI Layer.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7e83d2d7a6c00438",
+  "active": "ac5a3b188f31517e",
   "lastOpenFiles": [
-    "Proposals.md",
-    "Advantages.md",
+    "Advantages/Advantages.md",
+    "Advantages/UX Testing.md",
     "Abstract Web UI Layer.md",
-    "UX Testing.md",
-    "Reduce REST API calls.md",
-    "Input Validation.md",
-    "User State Management.md",
-    "Security.md",
-    "UX Design Integration.md",
-    "Reduce Effort of Front End.md"
+    "Proposals.md",
+    "Advantages/Reduce REST API calls.md",
+    "Advantages/Input Validation.md",
+    "Advantages/User State Management.md",
+    "Advantages/Security.md",
+    "Advantages/UX Design Integration.md",
+    "Advantages/Reduce Effort of Front End.md"
   ]
 }

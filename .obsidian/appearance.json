@@ -1,9 +1,9 @@
 {
-  "accentColor": "",
   "baseFontSize": 21,
   "enabledCssSnippets": [
     "style1"
   ],
-  "nativeMenus": false,
-  "translucency": false
+  "translucency": false,
+  "accentColor": "",
+  "nativeMenus": false
 }

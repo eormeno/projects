@@ -1,0 +1,3 @@
+- Reduce REST API calls
+- Allow caching of common shared data
+- Allow language UI preprocessing.

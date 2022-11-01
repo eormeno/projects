@@ -1,0 +1,1 @@
+Sharing user state across multiple http clients.

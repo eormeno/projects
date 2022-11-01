@@ -1,0 +1,1 @@
+Unique input validation: For the same input in all the front-ends

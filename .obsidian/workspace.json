@@ -18,11 +18,15 @@
             }
           },
           {
-            "id": "f2fb87aaf37a22f2",
+            "id": "7e83d2d7a6c00438",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Abstract Web UI Layer.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -92,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Abstract Web UI Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Abstract Web UI Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Abstract Web UI Layer.md"
+              }
             }
           }
         ]
@@ -139,17 +147,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f2fb87aaf37a22f2",
+  "active": "7e83d2d7a6c00438",
   "lastOpenFiles": [
+    "Proposals.md",
     "Advantages.md",
+    "Abstract Web UI Layer.md",
     "UX Testing.md",
     "Reduce REST API calls.md",
     "Input Validation.md",
     "User State Management.md",
     "Security.md",
     "UX Design Integration.md",
-    "Reduce Effort of Front End.md",
-    "README.md",
-    "Proposals.md"
+    "Reduce Effort of Front End.md"
   ]
 }

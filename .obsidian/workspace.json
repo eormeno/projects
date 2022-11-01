@@ -11,12 +11,8 @@
             "id": "80ecb1283294c265",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Abstract Web UI Layer.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Abstract Web UI Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Abstract Web UI Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Abstract Web UI Layer.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -139,14 +131,14 @@
   "active": "80ecb1283294c265",
   "lastOpenFiles": [
     "Abstract Web UI Layer.md",
+    "Advantages.md",
+    "Include SDP tools.md",
     "Proposals.md",
     "Auto documentation.md",
     "Include UX Designer.md",
-    "Include SDP tools.md",
     "README.md",
     "draws/Architecture.svg",
     "2022-10-26.md",
-    "Recording 20221026112754.webm",
-    "Recording 20221026114840.webm"
+    "Recording 20221026112754.webm"
   ]
 }

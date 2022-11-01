@@ -16,6 +16,3 @@ ___
 - Allow live testing of UI interactions.
 
 ## [[Proposals]]
-- Include UX design
-- Include process development
-- Include auto documentation and diagramming

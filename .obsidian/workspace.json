@@ -4,16 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "2b5446653ef77f47",
+        "id": "0217d5b2f6bd02f3",
         "type": "tabs",
         "children": [
           {
-            "id": "af91abfca520ed33",
+            "id": "fc0c8fb1a3e5f1e0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "f59c5a6a259ddec4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Proposals.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -136,11 +140,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "af91abfca520ed33",
+  "active": "fc0c8fb1a3e5f1e0",
   "lastOpenFiles": [
     "Abstract Web UI Layer.md",
-    "draws/Architecture.svg",
+    "Proposals.md",
     "README.md",
+    "draws/Architecture.svg",
     "2022-10-26.md",
     "Recording 20221026112754.webm",
     "Recording 20221026114840.webm"

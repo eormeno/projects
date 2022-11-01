@@ -11,6 +11,8 @@ ___
 - Sharing user state across multiple http clients.
 - Unique input validation
 - Reduce REST API calls
+- Allow caching of common shared data
+- Allow language UI preprocessing.
 
 ## Proposals
 - Include UX design

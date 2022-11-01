@@ -1,0 +1,1 @@
+Reduce front-end development effort. One UI logic for all the front-ends

@@ -1,4 +1,4 @@
-- Reduce front-end development effort. One UI logic for all the front-ends
+- [[Untitled]] 
 - Allows a better integration of UX design into the SDP.
 - Let on facilitate the automation of UI unit tests.
 - It adds another security layer.

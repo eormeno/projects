@@ -8,3 +8,5 @@
 - Allow caching of common shared data
 - Allow language UI preprocessing.
 - Allow live testing of UI interactions.
+
+Reduce front-end development effort
